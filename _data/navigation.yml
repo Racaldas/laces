@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Início"
-    url: http://localhost:4000/
+#  - title: "Início"
+#    url: http://localhost:4000/
   - title: "Sobre"
     url: /sobre/
   - title: "Novidades"
