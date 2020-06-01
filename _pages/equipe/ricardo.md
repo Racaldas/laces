@@ -34,4 +34,4 @@ Professor Adjunto da área de Oclusão da Universidade Federal de Santa Catarina
 Possui graduação em Odontologia (2012) pela Universidade Estadual de Campinas - UNICAMP, aperfeiçoamento em Implantes Osseointegrados (2013, ACDC-Campinas), mestrado (2015) e doutorado (2018) em Clínica Odontológica na área de Prótese Dental, ambos pela FOP-UNICAMP. Realizou estágio pós-doutoral (CAPES/PNPD) no programa de Clínica Odontológica na área de Prótese Dental da FOP-UNICAMP. Em 2010 realizou intercâmbio universitário para a Universidade de Copenhagen, Dinamarca.
 {: .text-justify}
 
-<a href="/equipe" class="btn btn--danger">Voltar</a>
+<a url="/equipe" class="btn btn--danger">Voltar</a>
