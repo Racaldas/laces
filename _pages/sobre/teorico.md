@@ -1,7 +1,7 @@
 ---
 title: "Conteúdos Teóricos"
 layout: collection
-permalink: /sobre/teorico
+permalink: /sobre/teorico/
 ---
 
 

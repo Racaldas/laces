@@ -1,5 +1,5 @@
 ---
 title: "Treinamento em Estomatologia"
 layout: collection
-permalink: /sobre/estomato
+permalink: /sobre/estomato/
 ---
