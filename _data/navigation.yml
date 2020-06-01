@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Início"
+    url: http://localhost:4000/
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Novidades"
+    url: /public/
+  - title: "Equipe"
+    url: /equipe/
+  - title: "XXTest"
+    url: /pesquisa/
+
+  - title: "Contato"
+    url: /contato/

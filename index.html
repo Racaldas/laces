@@ -1,0 +1,59 @@
+---
+layout: splash
+author_profile: false
+header:
+  overlay_image: /assets/images/frontpage.jpg
+  actions:
+    - label: "Saiba mais"
+      url: "/sobre/"
+
+
+intro:
+  - excerpt: '<i>A Liga Academica de Estomatologia é composta por alunos e auxiliada em suas atividades por Professores de diferentes especialidades, fornecendo treinamento aos alunos em Estomatologia e Prótese Bucomaxilofacial.</i>'
+feature_row:
+  - image_path: /assets/images/aula1.jpg
+    alt: "Conteúdo teórico"
+    title: "Conteúdo teórico"
+    url: "/sobre/teorico/"
+    btn_label: "Saiba mais"
+    btn_class: "btn--danger"
+
+  - image_path: /assets/images/aula2.jpeg
+    alt: "Práticas em Estomatologia"
+    title: "Práticas em Estomatologia"
+    url: "/sobre/estomato/"
+    btn_label: "Saiba mais"
+    btn_class: "btn--danger"
+
+  - image_path: /assets/images/aula3.jpg
+    title: "Práticas em Prótese Bucomaxilofacial"
+    alt: "Práticas em Prótese Bucomaxilofacial"
+    url: "/sobre/pbmf/"
+    btn_label: "Saiba mais"
+    btn_class: "btn--danger"
+
+
+feature_row2:
+  - image_path: /assets/images/youtube.jpg
+    alt: "Prof Gustavo no YouTube"
+    title: Conheça nosso canal no <a href="https://www.youtube.com/channel/UCJl1FHhw-QTHndzG9dchMjA">YouTube!</a>"
+    excerpt: 'Agora a LACES também possui canal no YouTube! Clique em "Saiba Mais" e veja todos os nossos vídeos!'
+    url: "/LACES-no-YouTube/"
+    btn_label: "Saiba mais"
+    btn_class: "btn--danger"
+
+feature_row3:
+  - image_path: /assets/images/seletivo.jpg
+    alt: "Processo seletivo"
+    title: "Processo seletivo"
+    excerpt: 'No momento não estamos com processo seletivo aberto. Fique de olho nas novidades e venha fazer parte dessa liga! Clique em <span style="color:red"> saiba mais </span> e tenha todas as informações!'
+    url: "/posts/Processo-Seletivo"
+    btn_label: "Saiba mais"
+    btn_class: "btn--danger"
+---
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}

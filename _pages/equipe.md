@@ -1,0 +1,69 @@
+---
+title: "Equipe"
+layout: collection
+permalink: /equipe/
+header:
+#  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/equipe.jpg
+excerpt: "A LACES é composta atualmente por 12 alunos de graduação e com colaboração de 8 professores."
+
+feature_row:
+
+- image_path: /assets/images/perfil-ricardo.jpg
+  alt: "Ricardo Armini Caldas"
+  title: "Ricardo Armini Caldas"
+  excerpt: 'Professor Adjunto - Oclusão'
+  url: "/equipe/ricardo"
+  btn_label: "Detalhes"
+  btn_class: "btn--danger"
+
+- image_path: /assets/images/perfil-gustavo.jpg
+  alt: "Gustavo Davi Rabelo"
+  title: "Gustavo Davi Rabelo"
+  excerpt: 'Professor Adjunto - Estomatologia'
+  url: "/equipe/gustavo"
+  btn_label: "Detalhes"
+  btn_class: "btn--danger"
+
+- image_path: /assets/images/perfil-luisa.jpg
+  alt: "Luisa Machado Barin"
+  title: "Luisa Machado Barin"
+  excerpt: 'Professora Adjunta - Estomatologia'
+  url: "/equipe/luisa"
+  btn_label: "Detalhes"
+  btn_class: "btn--danger"
+
+
+feature_row2:
+- image_path: /assets/images/prof1.jpg
+  alt: "Tinky winky"
+  excerpt: 'Tinky winky'
+- image_path: /assets/images/prof2.jpg
+  alt: "Lala"
+  excerpt: 'Lala'
+- image_path: /assets/images/prof2.jpg
+  alt: "Lala"
+  excerpt: 'Lala'
+
+
+feature_row3:
+- image_path: /assets/images/prof1.jpg
+  alt: "Tinky winky"
+  excerpt: 'Tinky winky'
+- image_path: /assets/images/prof2.jpg
+  alt: "Lala"
+  excerpt: 'Lala'
+
+---
+
+<strong>Professores</strong>
+{% include feature_row id="feature_row" layout=four  %}
+
+<strong>Membros Fundadores</strong>
+{% include feature_row id="feature_row2" %}
+
+<strong>Membros</strong>
+{% include feature_row id="feature_row3" %}
+
+<a href="/equipe/ex-alunos/" class="btn btn--danger">Ex-alunos</a>
