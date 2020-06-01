@@ -1,7 +1,7 @@
 ---
 title: "Contato"
 layout: collection
-permalink: /contato
+permalink: /contato/
 ---
 
 
