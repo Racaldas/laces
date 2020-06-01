@@ -66,4 +66,4 @@ feature_row3:
 <strong>Membros</strong>
 {% include feature_row id="feature_row3" %}
 
-<a href="/equipe/ex-alunos/" class="btn btn--danger">Ex-alunos</a>
+<a href="/equipe/ex-alunos" class="btn btn--danger">Ex-alunos</a>
