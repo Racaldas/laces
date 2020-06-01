@@ -10,10 +10,10 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Conteúdos Teóricos"
-      url: "/sobre/teorico/"
+      url: "/sobre/teorico"
     - label: "Estomatologia"
-      url: "/sobre/estomato/"
+      url: "/sobre/estomato"
     - label: "Prótese Bucomaxilofacial"
-      url: "/sobre/pbmf/"
+      url: "/sobre/pbmf"
 ---
 asdaushduas
