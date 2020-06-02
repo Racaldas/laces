@@ -8,7 +8,7 @@ main:
     url: /public/
   - title: "Equipe"
     url: /equipe/
-  - title: "XXTest"
-    url: /pesquisa/
+#  - title: "XXTest"
+#    url: /pesquisa/
   - title: "Contato"
     url: /contato/
