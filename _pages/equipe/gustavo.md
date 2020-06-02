@@ -17,16 +17,16 @@ tagline: "Estomatologia - Osteologia - Morfologia"
 gallery:
   - url: https://doi.org/10.1007/s00784-017-2153-8
     image_path: /assets/images/gustavo/imagem1.jpg
-    caption: "Ampliar (/assets/images/gustavo/imagem1.jpg)"
+  #  caption: "Ampliar (/assets/images/gustavo/imagem1.jpg)"
     alt: "Artigo 1"
   - url: https://doi.org/10.1038/s41598-019-57303-z
-    image_path: /assets/images/gustavo/imagem2.png
+    image_path: /assets/images/gustavo/imagem2.jpg
     alt: "Artigo 2"
-    caption: "Ampliar (/assets/images/gustavo/imagem2.jpg)"
+  #  caption: "Ampliar (/assets/images/gustavo/imagem2.jpg)"
   - url: https://doi.org/10.1007/s12663-014-0707-8
-    image_path: /assets/images/gustavo/imagem3.png
+    image_path: /assets/images/gustavo/imagem3.jpg
     alt: "Artigo 3"
-    caption: "Ampliar (/assets/images/gustavo/imagem3.jpg)"
+  #  caption: "Ampliar (/assets/images/gustavo/imagem3.jpg)"
 ---
 Professor Adjunto do Departamento de Odontologia da UFSC. Atua na graduação e pós-graduação, em parceria com as instituições: UFJF, UFU, AC Camargo Cancer Center e University Medical Center Hamburg-Eppendorf. Tem experiência nas áreas de Estomatologia, Morfologia e Osteologia. Atua principalmente nos seguintes temas: Tecido ósseo, Osso cortical, Qualidade óssea, Histomorfometria, Microarquitetura, Lacunaridade, Dimensão Fractal, Microcracks, ainda, outros temas Lesões orais, Neoplasias bucais, Carcinoma Epidermóide e Osteonecrose.
 {: .text-justify}
