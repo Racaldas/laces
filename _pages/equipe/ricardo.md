@@ -17,16 +17,16 @@ tagline: "Biomecânica - Odontologia Digital - Impressão 3D"
 gallery:
   - url: https://doi.org/10.1016/j.dental.2018.06.025
     image_path: /assets/images/ricardo/imagem1.jpg
-  #  caption: "Ampliar (/assets/images/ricardo/imagem1.jpg)"
+    caption: "Ampliar (/assets/images/ricardo/imagem1.jpg)"
     alt: "Artigo 1"
   - url: https://doi.org/10.1016/j.jcms.2019.01.007
     image_path: /assets/images/ricardo/imagem2.jpg
-    alt: "Artigo auhuahe"
-#    caption: "Ampliar (/assets/images/ricardo/imagem2.jpg)"
+    alt: "Artigo 2"
+    caption: "Ampliar (/assets/images/ricardo/imagem2.jpg)"
   - url: https://doi.org/10.1016/j.jmbbm.2019.103401
     image_path: /assets/images/ricardo/imagem3.jpg
-    alt: "Teste"
-#    caption: "Ampliar (/assets/images/ricardo/imagem3.jpg)"
+    alt: "Artigo 3"
+    caption: "Ampliar (/assets/images/ricardo/imagem3.jpg)"
 ---
 Professor Adjunto da área de Oclusão da Universidade Federal de Santa Catarina - UFSC. Sua principal área de atuação em pesquisa é Biomecânica, atuando em diversos campos da odontolgia, principalmente através da utilização de Análise por Elementos Finitos. Atualmente está coordenando projeto de pesquisa para a popularização de recursos digitais para o ensino em Odontologia através de fotogrametria e impressão 3D.
 {: .text-justify}

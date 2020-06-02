@@ -34,6 +34,13 @@ feature_row:
   btn_label: "Detalhes"
   btn_class: "btn--danger"
 
+- image_path: /assets/images/perfil-alessandra.jpg
+  alt: "Alessandra"
+  title: "Alessandra"
+  excerpt: 'Professora Adjunta - Estomatologia'
+  url: "/equipe/alessandra"
+  btn_label: "Detalhes"
+  btn_class: "btn--danger"
 
 feature_row2:
 - image_path: /assets/images/prof1.jpg
