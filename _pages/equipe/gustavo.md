@@ -35,4 +35,5 @@ Professor Adjunto do Departamento de Odontologia da UFSC. Atua na graduação e 
 
 {% include video id="2tsVuqmjHE0" provider="youtube" %}
 *#Aproxime-se da ciência*
+
 <a href="/laces/equipe" class="btn btn--danger">Voltar</a>
