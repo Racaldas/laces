@@ -3,4 +3,4 @@ title: "Treinamento em Estomatologia"
 layout: collection
 permalink: /sobre/estomato/
 ---
-Texto e imagens descrevendo a atividade 
+As práticas em Estomatologia se desenvolvem por meio do atendimento ambulatorial de pacientes com lesões do complexo bucomaxilofacial, no intuito de proporcionar atenção secundária à comunidade pela atuação de especialistas, proporcionando adequado acompanhamento das lesões orais, em especial, atuando em prevenção, diagnóstico e tratamento, delineando as condutas e <i>follow-up</i> caso a caso no desenvolvimento de uma odontologia individualizada.

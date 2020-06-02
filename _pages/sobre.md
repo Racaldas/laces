@@ -2,7 +2,7 @@
 layout: single
 title: Sobre
 permalink: /sobre/
-excerpt: "A LACES é composta por atividades de três projetos de extensão: LACES, Treinamento em Estomatologia, Treinamento em Prótese Bucomaxilofacial."
+excerpt: "A LACES é composta por atividades de três projetos de extensão: Atividades teóricas, Treinamento em Estomatologia, Treinamento em Prótese Bucomaxilofacial."
 header:
   overlay_image: /assets/images/background.jpg
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -16,4 +16,4 @@ header:
     - label: "Prótese Bucomaxilofacial"
       url: "/sobre/pbmf"
 ---
-Escrever alguma coisa aqui!
+A LACES têm suas atividades vinculadas à três projetos de extensão: Um projeto com atividades teóricas e duas atividades de treinamento em clínica nas especialidades de Estomatologia e Prótese Bucomaxilofacial. Ainda, conta com um projeto virtual de promoção da ciência, intitulado "Aproxime-se da Ciência". As atividades da Liga iniciaram em 2019 e acontecem no ambito do Departamento de Odontologia da UFSC.
