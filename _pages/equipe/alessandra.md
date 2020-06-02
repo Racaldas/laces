@@ -1,5 +1,5 @@
 ---
-title: "Alessandra"
+title: "Alessandra Rodrigues de Camargo"
 layout: collection
 collection: equipe
 permalink: /equipe/alessandra

@@ -35,8 +35,8 @@ feature_row:
   btn_class: "btn--danger"
 
 - image_path: /assets/images/perfil-alessandra.jpg
-  alt: "Alessandra"
-  title: "Alessandra"
+  alt: "Alessandra Rodrigues de Camargo"
+  title: "Alessandra Rodrigues de Camargo"
   excerpt: 'Professora Adjunta - Estomatologia'
   url: "/equipe/alessandra"
   btn_label: "Detalhes"
