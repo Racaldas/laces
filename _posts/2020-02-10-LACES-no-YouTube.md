@@ -1,6 +1,6 @@
 ---
 collection: postagens
-layout: collection
+layout: single2
 header:
   overlay_image: /assets/images/background.jpg
 #  caption: "Foto: [Teste]"
