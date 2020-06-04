@@ -15,20 +15,20 @@ header:
 tagline: "Estomatologia - dois - tres"
 
 gallery:
-  - url: a
+  - url: https://doi.org/10.1097/PAI.0000000000000785
     image_path: /assets/images/etiene/imagem1.jpg
   #  caption: "Ampliar (/assets/images/gustavo/imagem1.jpg)"
     alt: "Artigo 1"
-  - url: a
+  - url: https://doi.org/10.1590/1678-7757-2017-0396
     image_path: /assets/images/etiene/imagem2.jpg
     alt: "Artigo 2"
   #  caption: "Ampliar (/assets/images/gustavo/imagem2.jpg)"
-  - url: a
+  - url: https://doi.org/10.1097/ID.0000000000000694
     image_path: /assets/images/etiene/imagem3.jpg
     alt: "Artigo 3"
   #  caption: "Ampliar (/assets/images/gustavo/imagem3.jpg)"
 ---
-Professora Adjunta do Departamento de Odontologia da UFSC...
+Professora Adjunta do Departamento de Odontologia da UFSC, possui graduação em Odontologia pela Universidade de São Paulo (2002), mestrado em Odontologia (Estomatologia Biologia Oral) pela Universidade de São Paulo (2005) e doutorado em Odontologia (Estomatologia Biologia Oral) pela Universidade de São Paulo (2009). Foi professora substituta na Disciplina de Patologia Bucal da Universidade Federal do Rio Grande do Sul. Atualmente é professora adjunta na Disciplina de Estomatologia da da Universidade Federal de Santa Catarina. Está vinculada ao Grupo de Pesquisa em Diagnóstico Bucal da UFSC.
 {: .text-justify}
 
 {% include gallery id="gallery" caption="Ao clicar na imagem você será redirecionado para o site do artigo." %}
