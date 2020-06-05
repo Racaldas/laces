@@ -16,7 +16,7 @@ header:
   overlay_image: /assets/images/background.jpg
   #caption: "Foto: [Teste]"
   overlay_filter: 0.5 #escurecer a imagem "rgba(255, 0, 0, 0.5)""
-tagline: "Materiais dentários - Microbiologia -Prótese dentária"
+tagline: "Materiais dentários - Microbiologia - Prótese dentária"
 
 gallery:
   - url: https://doi.org/10.1111/cid.12888
