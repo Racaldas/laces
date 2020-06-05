@@ -6,7 +6,8 @@ header:
 #  caption: "Foto: [Teste]"
 #  overlay_filter: 0.5 #escurecer a imagem "rgba(255, 0, 0, 0.5)""
 
-
+category:
+  - Aproxime-se da ciência
 author_profile: false
 tagline: "Estamos no YouTube!"
 permalink: /LACES-no-YouTube/

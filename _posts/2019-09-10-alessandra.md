@@ -1,12 +1,16 @@
 ---
 title: "Alessandra Rodrigues de Camargo"
-layout: collection
-collection: equipe
 permalink: /equipe/alessandra
-#entries_layout: grid
-author_profile: true
 author: Alessandra
+
+#entries_layout: grid
+layout: single2
+collection: equipe
+author_profile: true
+share: false
+related: false
 categories: Professores
+
 
 header:
   overlay_image: /assets/images/background.jpg
