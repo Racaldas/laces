@@ -16,17 +16,17 @@ header:
   overlay_image: /assets/images/background.jpg
   #caption: "Foto: [Teste]"
   overlay_filter: 0.5 #escurecer a imagem "rgba(255, 0, 0, 0.5)""
-tagline: "Biomecânica - Odontologia Digital - Impressão 3D"
+tagline: "Materiais dentários - Microbiologia -Prótese dentária"
 
 gallery:
-  - url: https://doi.org/
+  - url: https://doi.org/10.1111/cid.12888
     image_path: /assets/images/thalisson/imagem1.jpg
     alt: "Artigo 1"
-  - url: https://doi.org/
+  - url: https://doi.org/10.3791/57756
     image_path: /assets/images/thalisson/imagem2.jpg
     alt: "Artigo 2"
-  - url: https://doi.org/
-    image_path: /assets/images/thslisson/imagem3.jpg
+  - url: https://doi.org/10.1016/j.prosdent.2016.07.024
+    image_path: /assets/images/thalisson/imagem3.jpg
     alt: "Artigo 3"
 
 ---
