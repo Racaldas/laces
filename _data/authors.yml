@@ -61,6 +61,26 @@ Gustavo:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com.br/citations?user=V9hPN3AAAAAJ&hl=pt-BR&oi=ao"
 
+Leticia:
+  name        : "Leticia Ruhland"
+  bio         : "Profa. Dra. de Odontologia da Universidade Federal de Santa Catarina."
+  avatar      : "/assets/images/perfil-leticia.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:leticia.ruhland@ufsc.br"
+    - label: "Lattes"
+      icon: "fas fa-fw fa-link"
+      url: "http://lattes.cnpq.br/4853669223835350"
+#    - label: "ORCID"
+#      icon: "fab fa-orcid"
+#      url: "https://orcid.org/0000-0002-3988-7249"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Leticia_Correa4"
+#    - label: "Google Acadêmico"
+#      icon: "fas fa-graduation-cap"
+#      url: "https://scholar.google.com.br/"
 
 Luisa:
   name        : "Luisa Machado Barin"
