@@ -36,7 +36,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/youtube.jpg
     alt: "Prof Gustavo no YouTube"
-    title: Conheça nosso canal no <a href="https://www.youtube.com/channel/UCJl1FHhw-QTHndzG9dchMjA">YouTube!</a>"
+    title: Conheça nosso canal no <a href="https://www.youtube.com/channel/UCJl1FHhw-QTHndzG9dchMjA">YouTube!</a>
     excerpt: 'Agora a LACES também possui canal no YouTube! Clique em "Saiba Mais" e veja todos os nossos vídeos!'
     url: "/LACES-no-YouTube/"
     btn_label: "Saiba mais"
@@ -51,12 +51,19 @@ feature_row3:
     btn_label: "Saiba mais"
     btn_class: "btn--danger"
 
-
+feature_row4:
+  - image_path: /assets/images/laces-na-sobep.jpg
+    alt: "Laces na SOBEP"
+    title: "Laces na SOBEP"
+    excerpt: 'Veja a apresentação que a <a href="/equipe/alessandra/">Profª Alessandra</a> e o <a href="/equipe/gustavo/">Prof Gustavo</a> fizeram da LACES para a Sociedade Brasileira de Estomatologia e Patologia Oral.'
+    url: "/posts/sobep"
+    btn_label: "Saiba mais"
+    btn_class: "btn--danger"
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 {% include feature_row id="feature_row3" type="left" %}
