@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /public/
+permalink: /posts/
 #entries_layout: grid
 #classes: wide
 header:
