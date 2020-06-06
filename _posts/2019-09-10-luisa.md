@@ -10,7 +10,7 @@ author_profile: true
 share: false
 related: false
 categories: Professores
-
+read_time: false
 
 header:
   overlay_image: /assets/images/background.jpg
