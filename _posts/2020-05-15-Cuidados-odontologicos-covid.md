@@ -1,5 +1,5 @@
 ---
-title: "Artigo: Cuidados Odontológicos na era do COVID-19: recomendações para procedimentos odontológicos e profissionais"
+title: "Publicação: Cuidados Odontológicos na era do COVID-19: recomendações para procedimentos odontológicos e profissionais"
 collection: postagens
 permalink: /posts/:title
 author_profile: true
