@@ -34,7 +34,7 @@ gallery:
     image_path: /assets/images/sobep-grande.jpg
 
 ---
-Apresentação das atividades da LACES na Sociedade Brasileira de Estomatologia e Patologia Oral pela <a href="/laces/equipe/alessandra/">Profª Alessandra</a> e o <a href="/laces/equipe/gustavo/">Prof Gustavo</a>.
+Apresentação das atividades da LACES na Sociedade Brasileira de Estomatologia e Patologia Oral pela <a href="/laces/equipe/alessandra">Profª Alessandra</a> e o <a href="/laces/equipe/gustavo">Prof Gustavo</a>.
 {: .text-justify}
 
 {% include gallery id="gallery" type="center" %}
