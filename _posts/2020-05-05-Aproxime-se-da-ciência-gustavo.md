@@ -9,7 +9,7 @@ header:
   video:
     id: 2tsVuqmjHE0
     provider: youtube
-  teaser: /assets/images/gust-youtube.jpg
+  teaser: /assets/images/youtube.jpg
 
 category:
   - Professores
@@ -18,7 +18,7 @@ category:
 author_profile: true
 author: Gustavo
 tagline: ""
-permalink: /posts/gustavo
+permalink: /posts/:title
 tags:
   - aproximesedaciencia
   - UFSC

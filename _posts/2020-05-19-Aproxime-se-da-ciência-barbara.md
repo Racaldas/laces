@@ -15,7 +15,7 @@ category:
   - Aproxime-se da ciência
   - Alunas e alunos
 tagline: ""
-permalink: /posts/barbara
+permalink: /posts/:title
 tags:
   - aproximesedaciencia
   - UFSC

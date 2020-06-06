@@ -8,9 +8,11 @@ header:
   teaser: /assets/images/youtube.jpg
 category:
   - Aproxime-se da ciência
+
 author_profile: false
 tagline: "Estamos no YouTube!"
 permalink: /LACES-no-YouTube/
+
 tags:
   - aproximesedaciencia
   - UFSC

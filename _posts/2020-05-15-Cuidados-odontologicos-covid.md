@@ -19,7 +19,8 @@ tagline: "" #funcao do excerpt as vezes
 
 category:
   - Aproxime-se da ciência
-  - Artigo
+  - Publicações
+  - Professores
 
 tags:
   - covid-19

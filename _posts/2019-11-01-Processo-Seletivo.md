@@ -9,10 +9,10 @@ tagline: ""
 permalink: /posts/:title
 author_profile: false
 #categories: Professores
+
 tags:
   - processoseletivo
-  - seleção
-  - ingresso
+
 ---
 Ocorreu em Novembro de 2019 o primeiro processo seletivo de alunos de graduação para participarem da LACES. O processo seletivo foi conduzido pelos discentes membros fundadores. A seleção foi composta por duas etapas:
 {: .text-justify}
