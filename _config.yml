@@ -19,7 +19,7 @@ locale                   : "pt-BR"
 title                    : "LACES"
 title_separator          : "-"
 subtitle                 : Liga Acadêmica de Estomatologia
-name                     : "Ricardo Armini Caldas"
+name                     : <a href="/laces/equipe/ricardo">Ricardo Armini Caldas</a>
 description              : "Site da Liga Acadêmica de Estomatologia da Universidade Federal de Santa Catarina."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
