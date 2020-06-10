@@ -8,4 +8,5 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/background.jpg
 excerpt: "Acompanhe aqui todas as novidades da LACES!"
+title: "Novidades"
 ---

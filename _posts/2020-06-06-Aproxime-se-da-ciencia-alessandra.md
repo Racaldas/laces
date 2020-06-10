@@ -18,7 +18,7 @@ category:
 author_profile: true
 author: Alessandra
 tagline: ""
-permalink: /posts/:title
+permalink: /posts/:title/
 tags:
   - aproximesedaciencia
   - UFSC
@@ -38,4 +38,4 @@ Prosseguindo com nosso projeto <span style="color:red"> *#aproximesedaciencia*</
 Seu campo de atuação é o Hospital Universitário (HU-UFSC), onde atua com o campo de estágio na área de oncohematologia, além do campo da deficiência, em especial com o autismo. Trabalha, ainda, com a regulação dos pacientes com deficiência no estado de Santa Catarina. Atualmente, encontra-se na linha de frente de enfrentamento para a pandemia do COVID-19, o que resultou em uma publicicação que visa promover conhecimento quanto ao atendimento odontológico em meio ao COVID-19
 {: .text-justify}
 
-Para conhecer mais sobre a Profª Alessandra, <a href="/laces/equipe/alessandra">clique aqui!</a>
+Para conhecer mais sobre a Profª Alessandra, <a href="/equipe/alessandra/">clique aqui!</a>

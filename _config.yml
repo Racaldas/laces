@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "LACES"
+title                    : "Liga Acadêmica de Estomatologia da Universidade Federal de Santa Catarina / LACES-UFSC"
 title_separator          : "-"
 subtitle                 : Liga Acadêmica de Estomatologia
-name                     : <a href="/laces/equipe/ricardo">Ricardo Armini Caldas</a>
+name                     : <a href="/equipe/ricardo/">Ricardo Armini Caldas</a>
 description              : "Site da Liga Acadêmica de Estomatologia da Universidade Federal de Santa Catarina."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : http://laces.ufsc.br # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #http://laces.ufsc.br # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo-small.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "LACES" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -63,7 +63,7 @@ google:
   search_engine_id       : 007029800210473958141:wynpcidzzqg
   instant_search         : true # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : VGDaRY4xOsGwWJjRaXS-d46nHXrCKka66YniUc1x_j0  #google5dadc5059570ac7e #VGDaRY4xOsGwWJjRaXS-d46nHXrCKka66YniUc1x_j0
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -75,7 +75,7 @@ facebook:
   username               : laces.ufsc
   app_id                 :
   publisher              : https://www.facebook.com/laces.ufsc
-og_image                 : /assets/images/logo-med.jpg
+og_image                 : /assets/images/logo.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -91,7 +91,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-79432319-2"
+    tracking_id          : "UA-79432319-3"
     anonymize_ip         : false # true, false (default)
 
 

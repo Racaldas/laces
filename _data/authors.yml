@@ -103,6 +103,27 @@ Luisa:
 #      icon: "fas fa-graduation-cap"
 #      url: "https://scholar.google.com.br/"
 
+Mauricio:
+  name        : "Maurício Malheiros Badaró"
+  bio         : "Prof. Dr. de Odontologia da Universidade Federal de Santa Catarina."
+  avatar      : "/assets/images/perfil-mauricio.jpg"
+  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:alessandra.camargo@ufsc.br"
+#    - label: "Lattes"
+#      icon: "fas fa-fw fa-link"
+#      url: "http://lattes.cnpq.br/5486024141829536"
+#    - label: "ORCID"
+#      icon: "fab fa-orcid"
+#      url: "https://orcid.org/0000-0002-3988-7249"
+#    - label: "Research Gate"
+#      icon: "fab fa-researchgate"
+#      url: "https://www.researchgate.net/profile/Alessandra_Camargo"
+#    - label: "Google Acadêmico"
+#      icon: "fas fa-graduation-cap"
+#      url: "https://scholar.google.com.br/"
+
 
 Ricardo:
   name        : "Ricardo Armini Caldas"

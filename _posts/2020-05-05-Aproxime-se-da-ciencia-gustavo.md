@@ -18,7 +18,7 @@ category:
 author_profile: true
 author: Gustavo
 tagline: ""
-permalink: /posts/:title
+permalink: /posts/:title/
 tags:
   - aproximesedaciencia
   - UFSC
@@ -38,4 +38,4 @@ Dando continuidade a nosso projeto <span style="color:red"> *#aproximesedacienci
 A principal inha de pesquisa do Prof. Gustavo é a interação entre osso e lesões orais, principalmente na vertente específica da interação entre osso e neoplasias, nos casos de Carcinoma Epidermoide e determinando a resposta óssea assim que o tumor invade o tecido ósseo. Trabalha também com a vertente de qualidade óssea, em pacientes portadores de doenças como a Artrose e a Osteoporose.
 Em uma de suas publicações mais recentes, trouxe informações a respeito da invasão do Carcinoma Epidermoide no osso e as mudanças estruturais que se decorrem desta.
 {: .text-justify}
-Para conhecer mais sobre o Prof Gustavo, <a href="/laces/equipe/gustavo">clique aqui!</a>
+Para conhecer mais sobre o Prof Gustavo, <a href="/equipe/gustavo/">clique aqui!</a>

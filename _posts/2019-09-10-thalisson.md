@@ -1,6 +1,6 @@
 ---
 title: "Thalisson Saymo de Oliveira Silva"
-permalink: /equipe/thalisson
+permalink: /equipe/thalisson/
 author: Thalisson
 
 #entries_layout: grid
@@ -35,4 +35,4 @@ Professor Adjunto da área de Materiais Dentários do Departamento de Odontologi
 
 {% include gallery id="gallery" caption="Ao clicar na imagem você será redirecionado para o site do artigo." %}
 
-<a href="/laces/equipe" class="btn btn--danger">Voltar</a>
+<a href="/equipe/" class="btn btn--danger">Voltar</a>

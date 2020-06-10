@@ -1,6 +1,6 @@
 ---
 title: "Alessandra Rodrigues de Camargo"
-permalink: /equipe/alessandra
+permalink: /equipe/alessandra/
 author: Alessandra
 
 #entries_layout: grid
@@ -37,4 +37,4 @@ Professora Adjunta do Departamento de Odontologia da UFSC, Coordenadora do Proje
 
 {% include gallery id="gallery" caption="Ao clicar na imagem você será redirecionado para o site do artigo." %}
 
-<a href="/laces/equipe" class="btn btn--danger">Voltar</a>
+<a href="/equipe/" class="btn btn--danger">Voltar</a>

@@ -6,7 +6,7 @@ header:
 #  overlay_filter: 0.5 #escurecer a imagem "rgba(255, 0, 0, 0.5)""
   teaser: /assets/images/seletivo.jpg
 tagline: ""
-permalink: /posts/:title
+permalink: /posts/:title/
 author_profile: false
 #categories: Professores
 

@@ -1,7 +1,7 @@
 ---
 title: "Publicação: Cuidados Odontológicos na era do COVID-19: recomendações para procedimentos odontológicos e profissionais"
 collection: postagens
-permalink: /posts/:title
+permalink: /posts/:title/
 author_profile: true
 author: Alessandra
 #layout: single, single2, posts, collection, splash...
@@ -31,7 +31,7 @@ A  pandemia  pelo  SARS-CoV-2  faz  com  que  muitos  profissionais  de  saúde 
 Esse artigo foi produzido pela Profª Alessandra e demais parcerias, publicado no periódico <a href="http://revodonto.bvsalud.org/scielo.php?script=sci_serial&pid=0004-5276&lng=pt&nrm=iso">Revista da Associação Paulista de Cirurgiões Dentistas</a> sobre SARS-CoV-2 (COVID-19)! Aproveite para ler, o artigo é Open access!
 {: .text-justify}
 
-Leia na íntegra: <a href="/laces/assets/images/alessandra/covid-rev-odonto.pdf" class="btn btn--success">Baixe o PDF aqui</a>
+Leia na íntegra: <a href="/assets/images/alessandra/covid-rev-odonto.pdf" class="btn btn--success">Baixe o PDF aqui</a>
 
 
  Franco, JB; Camargo, AR; Peres, MPSM. Cuidados Odontológicos na era do COVID-19: recomendações para procedimentos odontológicos e profissionais. REV ASSOC PAUL CIR DENT 2020;74(1):18-2.
