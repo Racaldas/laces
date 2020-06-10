@@ -22,8 +22,8 @@ subtitle                 : Liga Acadêmica de Estomatologia
 name                     : <a href="/equipe/ricardo/">Ricardo Armini Caldas</a>
 description              : "Site da Liga Acadêmica de Estomatologia da Universidade Federal de Santa Catarina."
 url                      : http://laces.ufsc.br # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #http://laces.ufsc.br # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               :  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "LACES" # overrides the website title displayed in the masthead, use " " for no title
