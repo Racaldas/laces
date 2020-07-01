@@ -9,7 +9,7 @@ header:
   video:
     id: Qk256rkrLCk
     provider: youtube
-  teaser: /assets/images/youtube.jpg
+  teaser: /assets/images/ciencia.jpg
 
 category:
   - Professores

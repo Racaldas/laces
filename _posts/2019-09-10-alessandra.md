@@ -32,9 +32,13 @@ gallery:
     alt: "Artigo 3"
   #  caption: "Ampliar (/assets/images/gustavo/imagem3.jpg)"
 ---
-Professora Adjunta do Departamento de Odontologia da UFSC, Coordenadora do Projeto de Extensão Ambulatório para Distúrbios Neuropsicomotores e também Coordenadora do <a href="http://www.hu.ufsc.br/setores/rims/">Programa de Residência Integrada Multiprofissional em Saúde do HU/UFSC</a>. Tem experiência nas áreas de Estomatologia, Pacientes com Necessidades Especiais e Odontologia Hospitalar. Temas de interesse: Deficência, Autismo, Doenças oncohematológicas e doenças infecciosas.
+<img src="/assets/images/rims.png" alt="image-right" class="align-right"> Professora Adjunta do Departamento de Odontologia da UFSC, Coordenadora do Projeto de Extensão Ambulatório para Distúrbios Neuropsicomotores e também Coordenadora do <a href="http://www.hu.ufsc.br/setores/rims/">Programa de Residência Integrada Multiprofissional em Saúde do HU/UFSC</a>. Tem experiência nas áreas de Estomatologia, Pacientes com Necessidades Especiais e Odontologia Hospitalar. Temas de interesse: Deficência, Autismo, Doenças oncohematológicas e doenças infecciosas.
 {: .text-justify}
 
 {% include gallery id="gallery" caption="Ao clicar na imagem você será redirecionado para o site do artigo." %}
+
+{% include video id="Qk256rkrLCk" provider="youtube" %}
+*#Aproxime-se da ciência*
+
 
 <a href="/equipe/" class="btn btn--danger">Voltar</a>
