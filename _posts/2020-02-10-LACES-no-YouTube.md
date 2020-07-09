@@ -29,6 +29,7 @@ tags:
 Você também pode assistir direto no YouTube! <a href="https://www.youtube.com/channel/UCJl1FHhw-QTHndzG9dchMjA">Segue a gente!</a>
 {: .text-justify}
 
+{% include video id="Yk6NZnHUdIA" provider="youtube" %}
 {% include video id="Qk256rkrLCk" provider="youtube" %}
 {% include video id="i7jSbT2iA7c" provider="youtube" %}
 {% include video id="2tsVuqmjHE0" provider="youtube" %}

@@ -26,6 +26,10 @@ tags:
 gallery:
   - image_path: /assets/images/palestra1.jpg
 ---
+**Atualização 09/07/2020** - *Não conseguiu assistir a palestra? Não tem problema,* <a href="https://youtu.be/Yk6NZnHUdIA" >*assista aqui!*</a>
+
+--
+
 A LACES, em conjunto com os perfis do <a href="https://www.instagram.com/noh.ufsc/">#noh.ufsc</a> (Núcleo de Odonto Hospitalar) e <a href="https://www.instagram.com/odontonaciencia/">#Odontonaciência</a>, convidam você para assistir a palestra **Interpretação de Artigos e alfabetização científica** ministrada pelo *Me. Eslen Delanogare*.
 {: .text-justify}
 
