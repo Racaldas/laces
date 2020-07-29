@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Confira todas as atividades AQUI!"
-      url: "/tags/#aproximesedaciencia"
+      url: "/categories/#aproximesedaciencia"
 
 gallery:
   - url: /posts/Aproxime-se-da-ciencia-barbara/
